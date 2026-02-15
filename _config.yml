@@ -1,0 +1,8 @@
+theme: just-the-docs
+
+# Enable dark mode
+just_the_docs:
+  features:
+    - navigation
+    - search
+    - dark-mode
