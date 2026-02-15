@@ -35,9 +35,6 @@ jobs:
           gem install bundler
           bundle install
           bundle exec jekyll build -d ./_site
-        with:
-          source: ./
-          destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
