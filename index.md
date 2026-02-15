@@ -1,7 +1,6 @@
 # Gabriel Marinescu
 
-**Software Engineer**
-Cluj-Napoca, Romania | gc.marinescu@yahoo.ro | [LinkedIn](https://www.linkedin.com/in/gabriel-catalin-marinescu-991907114/)
+**Software Engineer** Cluj-Napoca, Romania | gc.marinescu@yahoo.ro | [LinkedIn](https://www.linkedin.com/in/gabriel-catalin-marinescu-991907114/)
 
 ***
 
