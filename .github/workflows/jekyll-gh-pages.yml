@@ -31,7 +31,10 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
+        run: |
+          gem install bundler
+          bundle install
+          bundle exec jekyll build -d ./_site
         with:
           source: ./
           destination: ./_site
